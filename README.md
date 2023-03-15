@@ -1,6 +1,6 @@
 # Vigenere-cryptanalysis-helper
 
-University project - Vigenere cryptanalysyis helper application with web interface 
+University project - Vigenere cryptanalysis helper application with web interface 
 
 (parts of this project are still a work in progress)
 
