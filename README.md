@@ -2,6 +2,8 @@
 
 University project - Vigenere cryptanalysyis helper application with web interface 
 
+(parts of this project are still a work in progress)
+
 ## Features
 
 There are 2 aviable options:
