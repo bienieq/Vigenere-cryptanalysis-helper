@@ -12,7 +12,7 @@ There are 2 aviable options:
 
 - Option for unknown key length.
 
-First, the program finds the n-grams (lenght: 3 and 4) and the biggest distance between their consequent apperances int the ciphertext.
+First, the program finds the n-grams (length: 3 and 4) and the biggest distance between their consequent apperances int the ciphertext.
 After that, we are provided with common divisors (representing the length of the key, here the limited value is 24 characters so the list contains range from 2 to 24) and the count of n-grams distances divisible by them. The most probable key length values are the divisors with most hit counts (without considering the really small values, like 2 or 3 since a key of that length would be trivially easy to break, so it's best to consider the larger ones first).
 
 Our prediction on the key lenght can be verified by the second option.
